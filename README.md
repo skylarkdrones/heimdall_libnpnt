@@ -1,2 +1,2 @@
 # libNPNT
-Open Source NPNT Implementation for RPAS waka waka??
+Open Source NPNT Implementation for RPAS
